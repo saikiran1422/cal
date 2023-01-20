@@ -8,3 +8,6 @@ substarction
 
 
 division
+
+multiply
+ 

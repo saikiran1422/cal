@@ -3,3 +3,5 @@
 addition
 
 substarction
+
+multiply
